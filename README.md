@@ -41,5 +41,5 @@ Senior backend engineer, 4+ years building Java microservices for BFSI payments 
 
 ## Links
 
-- LinkedIn — [rath-ar](https://www.linkedin.com/in/rath-ar/)
+- LinkedIn — [rath-ar](https://www.linkedin.com/in/rathnasabapathy-ar/)
 - Email — rathnasabapathy.ar@gmail.com
